@@ -62,7 +62,7 @@ public class MainClass extends GraphicsProgram implements ActionListener
         addInstructions();
         setUpScore(); instrucOn = true;
 
-        //music();
+        music();
     }
 
     public void randomFood(){
